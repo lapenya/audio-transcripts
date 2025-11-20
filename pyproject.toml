@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "audio-transcripts"
+version = "0.1.0"
+description = "Recursively transcribe audio files using Deepgram API"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+deepgram-sdk = "^5.0.0"
+python-dotenv = "^1.0.0"
+
