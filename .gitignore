@@ -40,3 +40,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Log files
+*.log
+anthropic_api.log
